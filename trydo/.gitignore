@@ -1,0 +1,59 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Production build
+/build
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# IDE directories and files
+.vscode/
+.idea/
+.DS_Store
+
+# Mac system files
+.DS_Store
+
+# Linux system files
+*.swp
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+
+# Typescript cache
+*.tsbuildinfo
+
+# Yarn v2
+.yarn/*
+!.yarn/cache
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
+
+# Parcel cache
+.cache/
+
+# Storybook build
+.out/
+storybook-static/
+
+# Webpack cache
+dist/
