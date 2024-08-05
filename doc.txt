@@ -1,0 +1,1 @@
+Para instalar trydo: npm install --legacy-peer-deps
